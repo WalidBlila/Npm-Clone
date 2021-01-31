@@ -38,7 +38,7 @@ nav a {
     width: 50px;
 }
 
-.magnifing-glass {
+.magnifying-glass {
     width: 15px;
 }
 
@@ -47,7 +47,7 @@ header div form a {
     text-decoration: none;
     color: white;
     padding: 15px 15px 10px 15px;
-  margin: 0 auto;
+    margin: 0 auto;
   }
 
 .join {
@@ -140,11 +140,11 @@ header div form input {
 
 /* Zero */
 #zero {
-      display: flex;
-      flex-direction: row;
-  justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
-  height: 500px;
+    height: 500px;
   
 }
 
@@ -157,7 +157,7 @@ header div form input {
   }
 
 .zero-configuration {
-      width: 25px;
+    width: 25px;
 }
 
   .team-management {
